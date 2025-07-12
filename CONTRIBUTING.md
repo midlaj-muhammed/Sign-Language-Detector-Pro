@@ -21,8 +21,8 @@ We welcome various types of contributions:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/sign-language-detector-pro.git
-   cd sign-language-detector-pro
+   git clone https://github.com/midlaj-muhammed/Sign-Language-Detector-Pro.git
+   cd Sign-Language-Detector-Pro
    ```
 
 2. **Create Virtual Environment**

@@ -5,8 +5,15 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.7-green.svg)](https://mediapipe.dev/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-orange.svg)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow.svg)](https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro)
 
 > **An advanced AI-powered American Sign Language (ASL) recognition system that provides real-time, accurate predictions for sign language gestures using cutting-edge computer vision and artificial intelligence.**
+
+## 🚀 **Try the Live Demo**
+
+**🔗 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro)**
+
+Experience the Sign Language Detector Pro directly in your browser! Upload sign language images or videos and get instant AI-powered predictions with up to 95% accuracy.
 
 ## 🌟 Project Overview
 
@@ -90,8 +97,8 @@ Input (Image/Video) → Hand Detection → Gesture Analysis → AI Classificatio
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/sign-language-detector-pro.git
-cd sign-language-detector-pro
+git clone https://github.com/midlaj-muhammed/Sign-Language-Detector-Pro.git
+cd Sign-Language-Detector-Pro
 ```
 
 ### Step 2: Create Virtual Environment
@@ -143,6 +150,15 @@ streamlit run app.py
 ```
 
 The application will be available at `http://localhost:8501`
+
+### 🌐 **Online Demo**
+
+**Try the live demo without installation**: [Hugging Face Spaces Demo](https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro)
+
+- **No setup required** - Works directly in your browser
+- **Full functionality** - All features available online
+- **Instant results** - Upload and get predictions immediately
+- **Mobile friendly** - Works on phones and tablets
 
 ### Using the Interface
 
@@ -364,10 +380,25 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 ```
 
 ### Cloud Deployment Options
+- **Hugging Face Spaces**: [Live Demo Available](https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro)
 - **Streamlit Cloud**: Direct GitHub integration
 - **Heroku**: Web application hosting
 - **AWS EC2**: Scalable cloud deployment
 - **Google Cloud Run**: Containerized deployment
+
+### Hugging Face Spaces Deployment
+The application is already deployed and running on Hugging Face Spaces:
+```bash
+# Visit the live demo
+https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro
+
+# Features available in the demo:
+- Full AI-powered sign language recognition
+- Drag-and-drop file uploads
+- Real-time processing with Gemini AI
+- Export functionality
+- Mobile-responsive interface
+```
 
 ## 🤝 Contributing
 
@@ -407,9 +438,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sign-language-detector-pro/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sign-language-detector-pro/discussions)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/sign-language-detector-pro/wiki)
+- **Issues**: [GitHub Issues](https://github.com/midlaj-muhammed/Sign-Language-Detector-Pro/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/midlaj-muhammed/Sign-Language-Detector-Pro/discussions)
+- **Documentation**: [Project Wiki](https://github.com/midlaj-muhammed/Sign-Language-Detector-Pro/wiki)
+- **Live Demo**: [Hugging Face Spaces](https://huggingface.co/spaces/midlajvalappil/Sign-Language-Detector-Pro)
 
 ---
 
