@@ -1,0 +1,72 @@
+# Environment variables (contains API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+test_logs.json
+
+# Temporary files
+*.tmp
+*.temp
+demo_result.jpg
+test_output.jpg
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Documentation files that were cleaned up
+demo.py
+IMPLEMENTATION_SUMMARY.md
+USAGE_GUIDE.md
+ENHANCEMENT_SUMMARY.md
+FINAL_ENHANCEMENT_REPORT.md
+TEXT_VISIBILITY_FIXES.md
+DEPRECATION_FIXES.md
+COMPREHENSIVE_TEXT_VISIBILITY_AUDIT.md
+SINGLE_PREDICTION_IMPLEMENTATION.md
+test_openai_api.py
+test_fallback_classifier.py
+DIAGNOSIS_AND_FIXES_REPORT.md
+test_gemini_api.py
+GEMINI_INTEGRATION_SUCCESS.md
+test_enhanced_gemini_integration.py
+test_improved_gemini.py
